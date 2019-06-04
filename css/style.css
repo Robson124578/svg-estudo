@@ -1,0 +1,9 @@
+/* Reset */
+
+*{margin:0; padding:0; box-sizing: border-box;}
+
+.geral {
+    display: flex;
+    height: auto;
+    border: 1px solid blueviolet;
+}
